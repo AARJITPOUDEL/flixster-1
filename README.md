@@ -9,7 +9,7 @@ Flixster is an Android application for displaying movie data fetched from The Mo
 - Parsed JSON data and displayed movie entries in a RecyclerView with a grid layout.
 -  Loaded and displayed images using Glide.
 - Implemented Mechanism of detetcing the average colour of image obtained from server and setting the backgound to it for better visuals.
-- Implemented a detail screen that shows additional information (e.g. summary , popularity, votes, etc.) about each movie when selected.
+  
 
 
   ## Screenshots
