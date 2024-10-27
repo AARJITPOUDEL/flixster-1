@@ -14,10 +14,14 @@ Flixster is an Android application for displaying movie data fetched from The Mo
 
   ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/e48fd4ea-6924-422c-84eb-bd707f2794d3" alt="Screenshot 1" width="350"/>
-<img src="https://github.com/user-attachments/assets/ef542494-bcc1-4d23-b1f3-37dbc43183c0" alt="Screenshot 2" width="350"/>
+<img src="https://github.com/user-attachments/assets/4ea9a6b3-9412-4c30-be4e-dfff57df5d4e" alt="Screenshot 2" width="350"/>
+<img src="https://github.com/user-attachments/assets/e4c9b1a9-87cd-46d6-9b4e-ae61e7f59856" alt="Screenshot 2" width="350"/>
 
 ##Video
 
-https://github.com/user-attachments/assets/601a50a0-9251-4a2f-a298-ffae61fcda83
+
+https://github.com/user-attachments/assets/01eac561-963d-46f1-8a34-08efce57dbdf
+
+
+
 
